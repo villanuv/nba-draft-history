@@ -1,0 +1,19 @@
+#root {
+  margin: 0 auto;
+  width: 960px;
+}
+
+table.stats {
+  border: 1px #ccc solid;
+}
+
+table.stats th, table.stats td {
+  text-align: center;
+  padding: 10px;
+  border: 1px #ccc solid;
+}
+
+table.player-list td {
+  vertical-align: top;
+  padding: 10px;
+}
